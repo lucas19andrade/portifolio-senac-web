@@ -17,7 +17,7 @@
 /* pseudo-elemento */
 header::before {
     content:'';
-    background-image: url ('../imagens/foto.png');
+    background-image: url('../imagens/foto.png');
     height: 100%;
     width: 100%;
     display: block;
