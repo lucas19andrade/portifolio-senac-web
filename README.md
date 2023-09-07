@@ -5,7 +5,7 @@ site do portifólio pessoal, projeto Web
 ## Tarefas
 -[x] header
 -[x]Apresentação
--[]Projetos 
+-[x]Projetos 
 -[]Orçamento
 -[]Menu
 -[]Responsividade
