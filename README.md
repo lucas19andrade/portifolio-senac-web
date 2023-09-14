@@ -6,7 +6,7 @@ site do portifólio pessoal, projeto Web
 -[x] header
 -[x]Apresentação
 -[x]Projetos 
--[]Orçamento
+-[x]Orçamento
 -[]Menu
 -[]Responsividade
 
